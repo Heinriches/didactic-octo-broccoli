@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 !ENTRY org.eclipse.core.resources 4 1 2025-08-06 22:36:45.490
 !MESSAGE Core exception while retrieving the content description
@@ -345,3 +346,18 @@ java.io.FileNotFoundException: /home/fabio/Documents/(UDEMY) Curso Java/didactic
 
 !ENTRY org.eclipse.core.resources 2 10035 2025-08-06 22:36:57.328
 !MESSAGE The workspace will exit with unsaved changes in this session.
+=======
+!SESSION 2025-08-06 21:52:47.695 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-06 21:52:53.508
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-06 21:55:01.556
+!MESSAGE Logback config file: /home/fabio/Documents/(UDEMY) Curso Java/didactic-octo-broccoli/05/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+>>>>>>> 05
