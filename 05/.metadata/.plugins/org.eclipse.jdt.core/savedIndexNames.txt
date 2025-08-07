@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/fabio/Documents/(UDEMY) Curso Java/didactic-octo-broccoli/05/.metadata/.plugins/org.eclipse.jdt.core
+1703552821.index
+1671038741.index
+1865797976.index

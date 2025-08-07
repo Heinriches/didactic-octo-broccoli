@@ -1,0 +1,13 @@
+//package - Pasta do Projeto
+package PrimeirosPassosJava;
+
+//Todo progrma JAVA é uma classe/
+//O nome da classe é o mesmo nome do arquivo
+//public - Publico
+//class - Classe
+public class OlaMundo {
+	public static void main(String[] args) {
+		System.out.println("Olá, Mundo!");
+	}
+
+}
